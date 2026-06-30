@@ -1,0 +1,15 @@
+{
+	"name": "mydatafactorytraining",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2c1460da-8b0c-440f-b26a-5833f5c3e39b",
+		"tenantId": "bceda1ec-b3e3-40e9-811c-29154bdad523"
+	}
+}
