@@ -16,7 +16,7 @@
 				"userProperties": [],
 				"typeProperties": {
 					"dataflow": {
-						"referenceName": "DF_Customer_Modified",
+						"referenceName": "Join_Employee_Project",
 						"type": "DataFlowReference"
 					},
 					"compute": {
